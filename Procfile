@@ -1,1 +1,1 @@
-web: npm install --force && npm run start
+web: npm run start:prod
